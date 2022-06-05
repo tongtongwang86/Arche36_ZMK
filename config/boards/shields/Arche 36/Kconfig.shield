@@ -1,0 +1,5 @@
+config SHIELD_ARCHE_LEFT
+	def_bool $(shields_list_contains,arche_left)
+
+config SHIELD_ARCHE_RIGHT
+	def_bool $(shields_list_contains,arche_right)

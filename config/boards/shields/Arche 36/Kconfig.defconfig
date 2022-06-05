@@ -1,0 +1,16 @@
+if SHIELD_ARCHE_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Arche36"
+
+config ZMK_SPLIT_BLE_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_JESUS_LEFT || SHIELD_ARCHE_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
