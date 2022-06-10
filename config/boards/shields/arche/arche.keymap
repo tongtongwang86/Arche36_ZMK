@@ -26,9 +26,9 @@
 //   |    Z    |    X    |    C    |    V    |    B    |                                |  B      |    N    |    M    |     ,   |    .    |  ?   |  
 //                                         |   GUI     | SPACE |                        |  SPACE  |   GUI   |  
             bindings = <
-    &mt N1 Q   &mt N2 W   &mt N3 E   &mt N4 R    &mt N5 T     &kp Y                       &mt N6 Y    &mt N7 U  &mt N8 I  &mt N9 O         &kp BSPC   
-    &mt TAB A  &kp S      &kp D      &kp F       &kp G                                        &mt APOS H       &mt BSLH J     &kp K     &mt P L          &mt N0 SEMI 
-    &kp Z      &kp X      &kp C      &kp V       &kp B                                        &kp B       &kp N     &kp M     &mt LBKT COMMA   &mt RBKT DOT    &mt SLASH ENTER
+    &kp Q  &kp W     &kp E     &kp R    &kp T     &kp Y                       &kp Y    &kp U  &mt N8 I  &kp O         &kp BSPC   
+    &kp A  &kp S      &kp D      &kp F       &kp G                                        &kp H       &kp J     &kp K     &mt P L          &kp SEMI 
+    &kp Z      &kp X      &kp C      &kp V       &kp B                                        &kp B       &kp N     &kp M     &kp COMMA   &kp DOT    &kp ENTER
                                      &kp LGUI    &mt LCTRL SPACE                                    &mt LALT SPACE   &kp LSHIFT
             >;
 
